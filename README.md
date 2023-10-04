@@ -1,7 +1,7 @@
-### Nneka's Portfolio
+#### Nneka's Portfolio
 Hello and welcome to my data protfolio!
 
-##Contents
+## Contents
 
 * SQL
 * JavaScript
