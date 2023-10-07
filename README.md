@@ -1,3 +1,5 @@
+![image](https://github.com/nneka-w/assests/blob/main/Untitled-1.png)
+
 ## 🙂 About Me
 
 
