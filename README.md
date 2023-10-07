@@ -1,4 +1,5 @@
-![image](https://github.com/nneka-w/assests/blob/main/Untitled-1.png)
+![image](https://github.com/nneka-w/nneka-w/assets/80926267/27e1a8ce-f546-452f-b82f-fe11acdc7c23)
+
 
 ## 🙂 About Me
 
